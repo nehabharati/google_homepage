@@ -137,6 +137,11 @@ footer > .links a {
 }
 
 @media only screen and (max-width:450px) {
+    .icon{
+        height:30px;
+        width: 30px;
+        margin-top: 12px;
+    }
     .logo {
         left:0;
     }
